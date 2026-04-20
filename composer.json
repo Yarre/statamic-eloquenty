@@ -1,5 +1,5 @@
 {
-    "name": "nfragkos/eloquenty",
+    "name": "yarre/eloquenty",
     "license": "MIT",
     "description": "Statamic addon that allows you to store specific collection entries into the database via Eloquent.",
     "autoload": {
